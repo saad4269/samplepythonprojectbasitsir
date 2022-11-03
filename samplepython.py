@@ -1,4 +1,6 @@
-print("Welcome to git")
+print("Welcome to Digifloat")
 print("How ar u?")
+print("This is git practice")
 print("Hello world 1")
+print("Hello Basit bhai")
 print("Hellow world 2")
